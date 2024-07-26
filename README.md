@@ -1,4 +1,3 @@
-# Username
 #About Me
 ## Hi there :wave:
 I'm Judith an experienced IT Business Analyst with a passion for data analytics, I thrive on transforming complex data into actionable insights. I have upskilled through specialized training and developed a comprehensive portfolio, demonstrating my proficiency in data analytics. My expertise lies in leveraging analytical skills to drive business decisions and improve processes, with a particular interest in data visualization and creating compelling visual representations that effectively communicate data stories.
